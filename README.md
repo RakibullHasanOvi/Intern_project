@@ -24,5 +24,22 @@ During my internship I completed this project.
 <img src = "https://github.com/user-attachments/assets/9cc559d2-b82f-4e9b-99ab-fae7dfb3298e" width = "200" height ="400"/>
 <img src = "https://github.com/user-attachments/assets/32e9fd41-d82d-4ed5-8664-821d2015ba5b" width = "200" height ="400"/>
 <img src = "https://github.com/user-attachments/assets/fc851bdc-5eb8-453c-b1c0-73742d82b751" width = "200" height ="400"/>
-<p>/
+<p/>
+  
+## Use some features (packages) from pub.dev
+
+1. Provider State Management.
+2. Stroge (Contact)
+3. Api
+4. Authentication Login/Logout
+5. Banking system (DBBL Nexus, BRAC BANK, city bank etc)
+6. Mobile recharge (Banglalink, Robi, Airtel etc)
+7. Mobile Banking (bKash, Nagad, Rocket, tap etc)
+8. Notification
+9. Add fund requests.
+10. Offer
+11. Otp system
+12. Change password
+13. Transaction report (Daily and Weekly)
+14. Responsive for all device by dynamicaly.
 
