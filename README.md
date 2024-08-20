@@ -1,21 +1,7 @@
 # WalletUi
 
-This application is a wallet application which helps to transfer money from abroad to bangladesh. In this project, I worked as a frontend mobile application developer.
-
-## Use some features (packages) from pub.dev
-
-1. Provider State Management.
-2. Stroge (Contact)
-3. Api
-4. Authentication Login/Logout
-5. Banking system (DBBL Nexus, BRAC BANK, city bank etc)
-6. Mobile recharge (Banglalink, Robi, Airtel etc)
-7. Mobile Banking (bKash, Nagad, Rocket, tap etc)
-8. Notification
-9. Add fund requests.
-10. Offer
-11. Transaction report (Daily and Weekly)
-12. Responsive for all device by dynamicaly.
+Wallet application which helps to transfer money from abroad to bangladesh. In this project, I worked as a frontend mobile application developer.
+During my internship I completed this project. 
 
 ## ScreenShorts
 <p align= "center">
