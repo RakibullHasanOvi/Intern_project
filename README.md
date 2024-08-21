@@ -1,7 +1,7 @@
 # WalletUi
 
 Wallet application which helps to transfer money from abroad to bangladesh. In this project, I worked as a frontend mobile application developer.
-During my internship I completed this project. 
+During my internship I completed this project.
 
 ## ScreenShorts
 <p align= "center">
